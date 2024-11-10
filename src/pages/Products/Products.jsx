@@ -7,7 +7,7 @@ import Offcanvas from "react-bootstrap/Offcanvas";
 import Form from "react-bootstrap/Form";
 
 import { useState } from "react";
-import MultiRangeSlider from "multi-range-slider-react";
+import MultiRangeSlider from "multi-range-slider-react";  
 
 import "./Products.css";
 import StaticSlider from "../../components/StaticSlider/StaticSlider";
